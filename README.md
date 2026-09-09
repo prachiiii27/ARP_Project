@@ -3,6 +3,7 @@ The selected mission route is Sardar Vallabhbhai Patel International Airport (AM
 6,900 km.
 
 The primary objectives are: 
+
 (1) establish aircraft and journey specifications via an RFP;
 
 (2) conduct phase-by-phase mission analysis to compute thrust requirements, fuel burn, and weight evolution;
