@@ -1,53 +1,55 @@
-# Aircraft Range & Performance (ARP) Project
+# Aircraft Range & Performance (ARP) Project 🛩️
 
 **Team 8 | IIT Gandhinagar Aerospace Course**
 
-This repository contains all reports and documentation for the Aircraft Range and Performance (ARP) project. The team was assigned the **Private Jet** category and selected the **Gulfstream G650** as the reference aircraft.
+This repository contains all reports, project deliverables, and analysis documentation for the Aircraft Range and Performance (ARP) project. Our team was assigned the **Private Jet** category and selected the **Gulfstream G650** as our reference aircraft.
 
 ---
 
-## Mission Overview
+## ✈️ Mission Overview
 
 | Parameter | Details |
-|-----------|---------|
+| :--- | :--- |
 | **Aircraft** | Gulfstream G650 (ultra-long-range business jet) |
-| **Origin** | Sardar Vallabhbhai Patel International Airport (AMD), Ahmedabad |
-| **Destination** | Heathrow Airport (LHR), London |
-| **Great-circle distance** | ~6,900 km |
+| **Origin Airport** | Sardar Vallabhbhai Patel International Airport (AMD), Ahmedabad |
+| **Destination Airport** | Heathrow Airport (LHR), London |
+| **Great-Circle Distance** | ~6,900 km |
 
 ---
 
-## Objectives
+## 🎯 Objectives
 
-1. Establish aircraft and journey specifications via a **Request for Proposal (RFP)**.
-2. Conduct **phase-by-phase mission analysis** (taxi, takeoff, climb, cruise, descent, landing) to compute fuel fractions and total fuel burn.
-3. Determine the **range capability** of the Gulfstream G650 and compare against the mission requirement.
-4. Perform **payload-range trade studies** and analyse performance margins.
+1. Establish aircraft and mission specifications through a detailed **Request for Proposal (RFP)**.
+2. Conduct **phase-by-phase mission analysis** (taxi, takeoff, climb, cruise, descent, landing) to determine segment fuel fractions and overall fuel burn.
+3. Evaluate the **range capability** of the Gulfstream G650 and compare against mission requirements.
+4. Perform **payload-range trade studies** and investigate operational performance margins.
 
 ---
 
-## Repository Contents
+## 📁 Repository Contents
 
 | File | Description |
-|------|-------------|
-| `RFP_Group8.pdf` | Request for Proposal â€” aircraft specs and mission requirements |
-| `arp_ (2) (1).pdf` | Phase-by-phase mission analysis |
-| `arp3_new (1) (1).pdf` | Extended analysis report (Part 3) |
-| `Copy of IITGN.pdf` | Reference material / IITGN slides |
-| `Part_2 (1).pdf` | Supplementary Part 2 documentation |
+| :--- | :--- |
+| `RFP_Group8.pdf` | Request for Proposal — detailed aircraft specs and mission requirements |
+| `arp_ (2) (1).pdf` | Phase-by-phase mission analysis report |
+| `arp3_new (1) (1).pdf` | Extended analysis and final comprehensive report (Part 3) |
+| `Part_2 (1).pdf` | Intermediate mission segment calculations and analysis |
+| `Copy of IITGN.pdf` | Course reference materials and presentation slides |
 
 ---
 
-## Key Concepts Covered
+## 🔑 Key Engineering Concepts Covered
 
-- Breguet Range Equation
-- Mission fuel-fraction method
-- Lift-to-drag ratio estimation
-- Specific fuel consumption (SFC) analysis
-- Payload-range envelope
+- **Breguet Range Equation** (jet aircraft cruise range modeling)
+- **Mission Fuel-Fraction Method** across discrete flight segments
+- **Aerodynamic Drag & L/D Estimation** ($C_L$, $C_D$, polar curves)
+- **Thrust Specific Fuel Consumption (TSFC)** analysis
+- **Payload-Range Envelope Diagram**
 
 ---
 
-## Author
+## 👤 Author
 
-**Prachi Jindal** â€” Junior Undergraduate, Mechanical Engineering, IIT Gandhinagar
+**Prachi Jindal**  
+Junior Undergraduate, Mechanical Engineering  
+Indian Institute of Technology Gandhinagar (IITGN)
